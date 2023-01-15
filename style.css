@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.image img{
+  width: 600px;
+}
+
+.footer-content{
+  position: absolute;
+  bottom: 0;
+}
